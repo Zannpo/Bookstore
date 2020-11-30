@@ -1,0 +1,8 @@
+pl\podolska\zaneta\bookstore\CreateProducts.class
+pl\podolska\zaneta\bookstore\DeleteProducts.class
+pl\podolska\zaneta\bookstore\Bookstore.class
+pl\podolska\zaneta\bookstore\Book.class
+pl\podolska\zaneta\bookstore\entities\InStoreProduct.class
+pl\podolska\zaneta\bookstore\ShowProducts.class
+pl\podolska\zaneta\bookstore\WrongValueException.class
+pl\podolska\zaneta\bookstore\AlterInfoAboutProducts.class
